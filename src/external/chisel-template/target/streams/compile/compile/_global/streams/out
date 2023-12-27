@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/root/murphi2chisel/src/external/chisel-template/src/main/scala/router.scala:711:7: Ln_receive_AcquireBlock_NtoT_Branch_None_None is already defined as class Ln_receive_AcquireBlock_NtoT_Branch_None_None[0m
+[0m[[0m[31merror[0m] [0m[0mclass Ln_receive_AcquireBlock_NtoT_Branch_None_None(coreNum:Int,allNodeNum:Int,allBranchNum:Int,b:Int) extends node(coreNum,allNodeNum,allBranchNum){[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

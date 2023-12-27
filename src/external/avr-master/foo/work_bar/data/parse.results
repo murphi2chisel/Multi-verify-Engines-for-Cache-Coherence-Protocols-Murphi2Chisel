@@ -1,0 +1,463 @@
+------------
+Size Summary
+------------
+
+State variables (#198)
+	(1-bit)	6
+	(2-bit)	32
+	(4-bit)	160
+
+Inputs (#6)
+	(1-bit)	5
+	(8-bit)	1
+
+Constants (#161)
+	(2-bit)	4
+	(4-bit)	13
+	(8-bit)	144
+
+---------------
+State Variables
+---------------
+_s196_id407                     (1-bit)
+_s195_id403                     (1-bit)
+_s194_id399                     (1-bit)
+_s192_id392                     (1-bit)
+_s197_id415                     (1-bit)
+_s193_id394                     (1-bit)
+_s191_Tree_reg_3_sons_2         (2-bit)
+_s190_Tree_reg_3_sons_1         (2-bit)
+_s189_Tree_reg_3_sons_0         (2-bit)
+_s148_Tree_reg_3_father         (2-bit)
+_s147_Tree_reg_3_directory_2    (2-bit)
+_s146_Tree_reg_3_directory_1    (2-bit)
+_s145_Tree_reg_3_directory_0    (2-bit)
+_s143_Tree_reg_2_sons_2         (2-bit)
+_s142_Tree_reg_2_sons_1         (2-bit)
+_s141_Tree_reg_2_sons_0         (2-bit)
+_s100_Tree_reg_2_father         (2-bit)
+_s99_Tree_reg_2_directory_2     (2-bit)
+_s98_Tree_reg_2_directory_1     (2-bit)
+_s97_Tree_reg_2_directory_0     (2-bit)
+_s93_Tree_reg_1_sons_0          (2-bit)
+_s95_Tree_reg_1_sons_2          (2-bit)
+_s96_Tree_reg_2_cache_state     (2-bit)
+_s144_Tree_reg_3_cache_state    (2-bit)
+_s94_Tree_reg_1_sons_1          (2-bit)
+_s52_Tree_reg_1_father          (2-bit)
+_s49_Tree_reg_1_directory_0     (2-bit)
+_s51_Tree_reg_1_directory_2     (2-bit)
+_s50_Tree_reg_1_directory_1     (2-bit)
+_s48_Tree_reg_1_cache_state     (2-bit)
+_s47_Tree_reg_0_sons_2          (2-bit)
+_s46_Tree_reg_0_sons_1          (2-bit)
+_s45_Tree_reg_0_sons_0          (2-bit)
+_s4_Tree_reg_0_father           (2-bit)
+_s3_Tree_reg_0_directory_2      (2-bit)
+_s2_Tree_reg_0_directory_1      (2-bit)
+_s1_Tree_reg_0_directory_0      (2-bit)
+_s0_Tree_reg_0_cache_state      (2-bit)
+_s188_Tree_reg_3_slave_pending_2    (4-bit)
+_s187_Tree_reg_3_slave_pending_1    (4-bit)
+_s186_Tree_reg_3_slave_pending_0    (4-bit)
+_s184_Tree_reg_3_link_2_5_para    (4-bit)
+_s183_Tree_reg_3_link_2_5_opcode    (4-bit)
+_s182_Tree_reg_3_link_2_4_para    (4-bit)
+_s181_Tree_reg_3_link_2_4_opcode    (4-bit)
+_s180_Tree_reg_3_link_2_3_para    (4-bit)
+_s179_Tree_reg_3_link_2_3_opcode    (4-bit)
+_s178_Tree_reg_3_link_2_2_para    (4-bit)
+_s177_Tree_reg_3_link_2_2_opcode    (4-bit)
+_s176_Tree_reg_3_link_2_1_para    (4-bit)
+_s175_Tree_reg_3_link_2_1_opcode    (4-bit)
+_s174_Tree_reg_3_link_2_0_para    (4-bit)
+_s173_Tree_reg_3_link_2_0_opcode    (4-bit)
+_s172_Tree_reg_3_link_1_5_para    (4-bit)
+_s171_Tree_reg_3_link_1_5_opcode    (4-bit)
+_s170_Tree_reg_3_link_1_4_para    (4-bit)
+_s169_Tree_reg_3_link_1_4_opcode    (4-bit)
+_s168_Tree_reg_3_link_1_3_para    (4-bit)
+_s167_Tree_reg_3_link_1_3_opcode    (4-bit)
+_s166_Tree_reg_3_link_1_2_para    (4-bit)
+_s165_Tree_reg_3_link_1_2_opcode    (4-bit)
+_s164_Tree_reg_3_link_1_1_para    (4-bit)
+_s163_Tree_reg_3_link_1_1_opcode    (4-bit)
+_s162_Tree_reg_3_link_1_0_para    (4-bit)
+_s161_Tree_reg_3_link_1_0_opcode    (4-bit)
+_s160_Tree_reg_3_link_0_5_para    (4-bit)
+_s159_Tree_reg_3_link_0_5_opcode    (4-bit)
+_s158_Tree_reg_3_link_0_4_para    (4-bit)
+_s157_Tree_reg_3_link_0_4_opcode    (4-bit)
+_s156_Tree_reg_3_link_0_3_para    (4-bit)
+_s155_Tree_reg_3_link_0_3_opcode    (4-bit)
+_s154_Tree_reg_3_link_0_2_para    (4-bit)
+_s153_Tree_reg_3_link_0_2_opcode    (4-bit)
+_s152_Tree_reg_3_link_0_1_para    (4-bit)
+_s151_Tree_reg_3_link_0_1_opcode    (4-bit)
+_s150_Tree_reg_3_link_0_0_para    (4-bit)
+_s149_Tree_reg_3_link_0_0_opcode    (4-bit)
+_s140_Tree_reg_2_slave_pending_2    (4-bit)
+_s139_Tree_reg_2_slave_pending_1    (4-bit)
+_s138_Tree_reg_2_slave_pending_0    (4-bit)
+_s136_Tree_reg_2_link_2_5_para    (4-bit)
+_s135_Tree_reg_2_link_2_5_opcode    (4-bit)
+_s134_Tree_reg_2_link_2_4_para    (4-bit)
+_s133_Tree_reg_2_link_2_4_opcode    (4-bit)
+_s132_Tree_reg_2_link_2_3_para    (4-bit)
+_s131_Tree_reg_2_link_2_3_opcode    (4-bit)
+_s130_Tree_reg_2_link_2_2_para    (4-bit)
+_s129_Tree_reg_2_link_2_2_opcode    (4-bit)
+_s128_Tree_reg_2_link_2_1_para    (4-bit)
+_s127_Tree_reg_2_link_2_1_opcode    (4-bit)
+_s126_Tree_reg_2_link_2_0_para    (4-bit)
+_s125_Tree_reg_2_link_2_0_opcode    (4-bit)
+_s124_Tree_reg_2_link_1_5_para    (4-bit)
+_s123_Tree_reg_2_link_1_5_opcode    (4-bit)
+_s122_Tree_reg_2_link_1_4_para    (4-bit)
+_s121_Tree_reg_2_link_1_4_opcode    (4-bit)
+_s120_Tree_reg_2_link_1_3_para    (4-bit)
+_s119_Tree_reg_2_link_1_3_opcode    (4-bit)
+_s118_Tree_reg_2_link_1_2_para    (4-bit)
+_s117_Tree_reg_2_link_1_2_opcode    (4-bit)
+_s116_Tree_reg_2_link_1_1_para    (4-bit)
+_s115_Tree_reg_2_link_1_1_opcode    (4-bit)
+_s114_Tree_reg_2_link_1_0_para    (4-bit)
+_s113_Tree_reg_2_link_1_0_opcode    (4-bit)
+_s112_Tree_reg_2_link_0_5_para    (4-bit)
+_s111_Tree_reg_2_link_0_5_opcode    (4-bit)
+_s110_Tree_reg_2_link_0_4_para    (4-bit)
+_s109_Tree_reg_2_link_0_4_opcode    (4-bit)
+_s108_Tree_reg_2_link_0_3_para    (4-bit)
+_s107_Tree_reg_2_link_0_3_opcode    (4-bit)
+_s106_Tree_reg_2_link_0_2_para    (4-bit)
+_s105_Tree_reg_2_link_0_2_opcode    (4-bit)
+_s104_Tree_reg_2_link_0_1_para    (4-bit)
+_s103_Tree_reg_2_link_0_1_opcode    (4-bit)
+_s102_Tree_reg_2_link_0_0_para    (4-bit)
+_s101_Tree_reg_2_link_0_0_opcode    (4-bit)
+_s90_Tree_reg_1_slave_pending_0    (4-bit)
+_s89_Tree_reg_1_master_pending    (4-bit)
+_s88_Tree_reg_1_link_2_5_para    (4-bit)
+_s87_Tree_reg_1_link_2_5_opcode    (4-bit)
+_s86_Tree_reg_1_link_2_4_para    (4-bit)
+_s85_Tree_reg_1_link_2_4_opcode    (4-bit)
+_s82_Tree_reg_1_link_2_2_para    (4-bit)
+_s81_Tree_reg_1_link_2_2_opcode    (4-bit)
+_s78_Tree_reg_1_link_2_0_para    (4-bit)
+_s77_Tree_reg_1_link_2_0_opcode    (4-bit)
+_s76_Tree_reg_1_link_1_5_para    (4-bit)
+_s75_Tree_reg_1_link_1_5_opcode    (4-bit)
+_s74_Tree_reg_1_link_1_4_para    (4-bit)
+_s73_Tree_reg_1_link_1_4_opcode    (4-bit)
+_s70_Tree_reg_1_link_1_2_para    (4-bit)
+_s69_Tree_reg_1_link_1_2_opcode    (4-bit)
+_s137_Tree_reg_2_master_pending    (4-bit)
+_s185_Tree_reg_3_master_pending    (4-bit)
+_s66_Tree_reg_1_link_1_0_para    (4-bit)
+_s65_Tree_reg_1_link_1_0_opcode    (4-bit)
+_s64_Tree_reg_1_link_0_5_para    (4-bit)
+_s63_Tree_reg_1_link_0_5_opcode    (4-bit)
+_s62_Tree_reg_1_link_0_4_para    (4-bit)
+_s61_Tree_reg_1_link_0_4_opcode    (4-bit)
+_s60_Tree_reg_1_link_0_3_para    (4-bit)
+_s59_Tree_reg_1_link_0_3_opcode    (4-bit)
+_s58_Tree_reg_1_link_0_2_para    (4-bit)
+_s57_Tree_reg_1_link_0_2_opcode    (4-bit)
+_s56_Tree_reg_1_link_0_1_para    (4-bit)
+_s55_Tree_reg_1_link_0_1_opcode    (4-bit)
+_s54_Tree_reg_1_link_0_0_para    (4-bit)
+_s53_Tree_reg_1_link_0_0_opcode    (4-bit)
+_s68_Tree_reg_1_link_1_1_para    (4-bit)
+_s92_Tree_reg_1_slave_pending_2    (4-bit)
+_s91_Tree_reg_1_slave_pending_1    (4-bit)
+_s80_Tree_reg_1_link_2_1_para    (4-bit)
+_s72_Tree_reg_1_link_1_3_para    (4-bit)
+_s71_Tree_reg_1_link_1_3_opcode    (4-bit)
+_s84_Tree_reg_1_link_2_3_para    (4-bit)
+_s83_Tree_reg_1_link_2_3_opcode    (4-bit)
+_s67_Tree_reg_1_link_1_1_opcode    (4-bit)
+_s79_Tree_reg_1_link_2_1_opcode    (4-bit)
+_s44_Tree_reg_0_slave_pending_2    (4-bit)
+_s43_Tree_reg_0_slave_pending_1    (4-bit)
+_s42_Tree_reg_0_slave_pending_0    (4-bit)
+_s41_Tree_reg_0_master_pending    (4-bit)
+_s40_Tree_reg_0_link_2_5_para    (4-bit)
+_s39_Tree_reg_0_link_2_5_opcode    (4-bit)
+_s38_Tree_reg_0_link_2_4_para    (4-bit)
+_s37_Tree_reg_0_link_2_4_opcode    (4-bit)
+_s36_Tree_reg_0_link_2_3_para    (4-bit)
+_s35_Tree_reg_0_link_2_3_opcode    (4-bit)
+_s34_Tree_reg_0_link_2_2_para    (4-bit)
+_s33_Tree_reg_0_link_2_2_opcode    (4-bit)
+_s32_Tree_reg_0_link_2_1_para    (4-bit)
+_s31_Tree_reg_0_link_2_1_opcode    (4-bit)
+_s30_Tree_reg_0_link_2_0_para    (4-bit)
+_s29_Tree_reg_0_link_2_0_opcode    (4-bit)
+_s28_Tree_reg_0_link_1_5_para    (4-bit)
+_s27_Tree_reg_0_link_1_5_opcode    (4-bit)
+_s26_Tree_reg_0_link_1_4_para    (4-bit)
+_s25_Tree_reg_0_link_1_4_opcode    (4-bit)
+_s24_Tree_reg_0_link_1_3_para    (4-bit)
+_s23_Tree_reg_0_link_1_3_opcode    (4-bit)
+_s22_Tree_reg_0_link_1_2_para    (4-bit)
+_s21_Tree_reg_0_link_1_2_opcode    (4-bit)
+_s20_Tree_reg_0_link_1_1_para    (4-bit)
+_s19_Tree_reg_0_link_1_1_opcode    (4-bit)
+_s18_Tree_reg_0_link_1_0_para    (4-bit)
+_s17_Tree_reg_0_link_1_0_opcode    (4-bit)
+_s16_Tree_reg_0_link_0_5_para    (4-bit)
+_s15_Tree_reg_0_link_0_5_opcode    (4-bit)
+_s14_Tree_reg_0_link_0_4_para    (4-bit)
+_s13_Tree_reg_0_link_0_4_opcode    (4-bit)
+_s12_Tree_reg_0_link_0_3_para    (4-bit)
+_s11_Tree_reg_0_link_0_3_opcode    (4-bit)
+_s10_Tree_reg_0_link_0_2_para    (4-bit)
+_s9_Tree_reg_0_link_0_2_opcode    (4-bit)
+_s8_Tree_reg_0_link_0_1_para    (4-bit)
+_s7_Tree_reg_0_link_0_1_opcode    (4-bit)
+_s6_Tree_reg_0_link_0_0_para    (4-bit)
+_s5_Tree_reg_0_link_0_0_opcode    (4-bit)
+
+------
+Inputs
+------
+_i6_id171947                    (1-bit)
+_i5_id171944                    (1-bit)
+_i4_id171941                    (1-bit)
+_i3_id171936                    (1-bit)
+_i2_reset                       (1-bit)
+_i1_io_en_a                     (8-bit)
+
+---------
+Constants
+---------
+2'd2
+2'd1
+2'd0
+2'd3
+4'd12
+4'd0
+4'd3
+4'd11
+4'd8
+4'd9
+4'd4
+4'd5
+4'd6
+4'd7
+4'd10
+4'd2
+4'd1
+8'd1
+8'd2
+8'd3
+8'd4
+8'd5
+8'd6
+8'd7
+8'd8
+8'd9
+8'd10
+8'd11
+8'd12
+8'd13
+8'd14
+8'd15
+8'd16
+8'd17
+8'd18
+8'd19
+8'd20
+8'd21
+8'd22
+8'd23
+8'd24
+8'd25
+8'd26
+8'd27
+8'd28
+8'd29
+8'd30
+8'd31
+8'd32
+8'd33
+8'd34
+8'd35
+8'd36
+8'd37
+8'd38
+8'd39
+8'd40
+8'd41
+8'd42
+8'd43
+8'd44
+8'd45
+8'd46
+8'd47
+8'd48
+8'd49
+8'd50
+8'd51
+8'd52
+8'd53
+8'd54
+8'd55
+8'd56
+8'd57
+8'd58
+8'd59
+8'd60
+8'd61
+8'd62
+8'd63
+8'd64
+8'd65
+8'd66
+8'd67
+8'd68
+8'd69
+8'd70
+8'd71
+8'd72
+8'd73
+8'd74
+8'd75
+8'd76
+8'd77
+8'd78
+8'd79
+8'd80
+8'd81
+8'd82
+8'd83
+8'd84
+8'd85
+8'd86
+8'd87
+8'd88
+8'd89
+8'd90
+8'd91
+8'd92
+8'd93
+8'd94
+8'd95
+8'd96
+8'd97
+8'd98
+8'd99
+8'd100
+8'd101
+8'd102
+8'd103
+8'd104
+8'd105
+8'd106
+8'd107
+8'd108
+8'd109
+8'd110
+8'd111
+8'd112
+8'd113
+8'd114
+8'd115
+8'd116
+8'd117
+8'd118
+8'd119
+8'd120
+8'd121
+8'd122
+8'd123
+8'd124
+8'd125
+8'd126
+8'd127
+8'd128
+8'd129
+8'd130
+8'd131
+8'd132
+8'd133
+8'd134
+8'd135
+8'd136
+8'd137
+8'd138
+8'd139
+8'd140
+8'd141
+8'd142
+8'd143
+8'd144
+
+-----------------------------
+Uninterpreted Functions (UFs)
+-----------------------------
+ReductionOr_1_2	#5
+ReductionOr_1_4	#4
+ReductionOr_1_8	#1
+
+------------------
+Initial Conditions
+------------------
+
+	!_s193_id394
+	_s197_id415
+
+
+
+-----------------
+Dependency List
+-----------------
+
+Depth: 0
+	(1-bit) #5	n0	u0	c0	e0	property	<= _s193_id394, _s192_id392, _s194_id399, _s195_id403, _s196_id407, 
+
+Depth: 1
+	(1-bit) #3	n2	u0	c0	e0	_s196_id407$next	<= _s48_Tree_reg_1_cache_state, _s50_Tree_reg_1_directory_1, _s51_Tree_reg_1_directory_2, 
+	(1-bit) #3	n2	u0	c0	e0	_s195_id403$next	<= _s48_Tree_reg_1_cache_state, _s50_Tree_reg_1_directory_1, _s51_Tree_reg_1_directory_2, 
+	(1-bit) #3	n2	u0	c0	e0	_s194_id399$next	<= _s48_Tree_reg_1_cache_state, _s50_Tree_reg_1_directory_1, _s51_Tree_reg_1_directory_2, 
+	(1-bit) #3	n0	u3	c0	e0	_s192_id392$next	<= _s48_Tree_reg_1_cache_state, _s50_Tree_reg_1_directory_1, _s51_Tree_reg_1_directory_2, 
+	(1-bit) #0	n0	u0	c0	e0	_s193_id394$next	<= 
+
+Depth: 2
+	(2-bit) #9	n158	u3	c0	e0	_s51_Tree_reg_1_directory_2$next	<= _s79_Tree_reg_1_link_2_1_opcode, _s83_Tree_reg_1_link_2_3_opcode, _s84_Tree_reg_1_link_2_3_para, _s80_Tree_reg_1_link_2_1_para, _s91_Tree_reg_1_slave_pending_1, _s92_Tree_reg_1_slave_pending_2, 
+	(2-bit) #9	n158	u3	c0	e0	_s50_Tree_reg_1_directory_1$next	<= _s67_Tree_reg_1_link_1_1_opcode, _s71_Tree_reg_1_link_1_3_opcode, _s72_Tree_reg_1_link_1_3_para, _s91_Tree_reg_1_slave_pending_1, _s92_Tree_reg_1_slave_pending_2, _s68_Tree_reg_1_link_1_1_para, 
+	(2-bit) #13	n156	u4	c0	e0	_s48_Tree_reg_1_cache_state$next	<= _s79_Tree_reg_1_link_2_1_opcode, _s67_Tree_reg_1_link_1_1_opcode, _s83_Tree_reg_1_link_2_3_opcode, _s84_Tree_reg_1_link_2_3_para, _s71_Tree_reg_1_link_1_3_opcode, _s72_Tree_reg_1_link_1_3_para, _s80_Tree_reg_1_link_2_1_para, _s91_Tree_reg_1_slave_pending_1, _s92_Tree_reg_1_slave_pending_2, _s68_Tree_reg_1_link_1_1_para, 
+
+Depth: 3
+	(4-bit) #6	n152	u2	c0	e0	_s68_Tree_reg_1_link_1_1_para$next	<= _s94_Tree_reg_1_sons_1, _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, 
+	(4-bit) #12	n158	u3	c0	e0	_s92_Tree_reg_1_slave_pending_2$next	<= _s87_Tree_reg_1_link_2_5_opcode, 
+	(4-bit) #12	n158	u3	c0	e0	_s91_Tree_reg_1_slave_pending_1$next	<= _s75_Tree_reg_1_link_1_5_opcode, 
+	(4-bit) #6	n151	u2	c0	e0	_s80_Tree_reg_1_link_2_1_para$next	<= _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, _s95_Tree_reg_1_sons_2, 
+	(4-bit) #9	n142	u4	c0	e0	_s72_Tree_reg_1_link_1_3_para$next	<= _s94_Tree_reg_1_sons_1, _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, _s69_Tree_reg_1_link_1_2_opcode, _s70_Tree_reg_1_link_1_2_para, 
+	(4-bit) #9	n157	u5	c0	e0	_s71_Tree_reg_1_link_1_3_opcode$next	<= _s94_Tree_reg_1_sons_1, _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, _s69_Tree_reg_1_link_1_2_opcode, _s70_Tree_reg_1_link_1_2_para, 
+	(4-bit) #9	n141	u4	c0	e0	_s84_Tree_reg_1_link_2_3_para$next	<= _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, _s95_Tree_reg_1_sons_2, _s81_Tree_reg_1_link_2_2_opcode, _s82_Tree_reg_1_link_2_2_para, 
+	(4-bit) #9	n157	u5	c0	e0	_s83_Tree_reg_1_link_2_3_opcode$next	<= _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, _s95_Tree_reg_1_sons_2, _s81_Tree_reg_1_link_2_2_opcode, _s82_Tree_reg_1_link_2_2_para, 
+	(4-bit) #12	n157	u5	c0	e0	_s67_Tree_reg_1_link_1_1_opcode$next	<= _s94_Tree_reg_1_sons_1, _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, 
+	(4-bit) #12	n157	u5	c0	e0	_s79_Tree_reg_1_link_2_1_opcode$next	<= _s144_Tree_reg_3_cache_state, _s185_Tree_reg_3_master_pending, _s96_Tree_reg_2_cache_state, _s137_Tree_reg_2_master_pending, _s95_Tree_reg_1_sons_2, 
+
+Depth: 4
+	(2-bit) #1	n145	u1	c0	e0	_s95_Tree_reg_1_sons_2$next	<= 
+	(2-bit) #14	n154	u6	c0	e0	_s96_Tree_reg_2_cache_state$next	<= _s73_Tree_reg_1_link_1_4_opcode, _s74_Tree_reg_1_link_1_4_para, _s85_Tree_reg_1_link_2_4_opcode, _s86_Tree_reg_1_link_2_4_para, 
+	(2-bit) #14	n154	u6	c0	e0	_s144_Tree_reg_3_cache_state$next	<= _s73_Tree_reg_1_link_1_4_opcode, _s74_Tree_reg_1_link_1_4_para, _s85_Tree_reg_1_link_2_4_opcode, _s86_Tree_reg_1_link_2_4_para, 
+	(2-bit) #1	n145	u1	c0	e0	_s94_Tree_reg_1_sons_1$next	<= 
+	(4-bit) #4	n152	u1	c0	e0	_s87_Tree_reg_1_link_2_5_opcode$next	<= _s85_Tree_reg_1_link_2_4_opcode, _s86_Tree_reg_1_link_2_4_para, 
+	(4-bit) #8	n87	u0	c0	e0	_s82_Tree_reg_1_link_2_2_para$next	<= 
+	(4-bit) #14	n156	u4	c0	e0	_s81_Tree_reg_1_link_2_2_opcode$next	<= 
+	(4-bit) #4	n152	u1	c0	e0	_s75_Tree_reg_1_link_1_5_opcode$next	<= _s73_Tree_reg_1_link_1_4_opcode, _s74_Tree_reg_1_link_1_4_para, 
+	(4-bit) #8	n85	u0	c0	e0	_s70_Tree_reg_1_link_1_2_para$next	<= 
+	(4-bit) #14	n156	u4	c0	e0	_s69_Tree_reg_1_link_1_2_opcode$next	<= 
+	(4-bit) #10	n152	u4	c0	e0	_s137_Tree_reg_2_master_pending$next	<= _s73_Tree_reg_1_link_1_4_opcode, _s74_Tree_reg_1_link_1_4_para, _s85_Tree_reg_1_link_2_4_opcode, _s86_Tree_reg_1_link_2_4_para, 
+	(4-bit) #10	n152	u4	c0	e0	_s185_Tree_reg_3_master_pending$next	<= _s73_Tree_reg_1_link_1_4_opcode, _s74_Tree_reg_1_link_1_4_para, _s85_Tree_reg_1_link_2_4_opcode, _s86_Tree_reg_1_link_2_4_para, 
+
+Depth: 5
+	(4-bit) #10	n95	u2	c0	e0	_s86_Tree_reg_1_link_2_4_para$next	<= 
+	(4-bit) #12	n159	u3	c0	e0	_s85_Tree_reg_1_link_2_4_opcode$next	<= 
+	(4-bit) #10	n97	u2	c0	e0	_s74_Tree_reg_1_link_1_4_para$next	<= 
+	(4-bit) #12	n159	u3	c0	e0	_s73_Tree_reg_1_link_1_4_opcode$next	<= 
+
+-----------------

@@ -1,0 +1,28 @@
+# bin/dpa
+# bin/reach
+# bin/vwn
+
+build/bin*/dpa
+build/bin*/reach
+build/bin*/vwn
+
+deps/*
+output/*
+
+*.a
+*.o
+*.d
+.fuse*
+*.log
+*.*project
+*/tmp.txt
+*/.settings/*
+.settings/*
+.d/*
+gmon.out
+
+# But not these files
+!.gitignore
+!.travis/*
+!.travis.yml
+!deps/*.sh

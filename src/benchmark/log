@@ -1,0 +1,268 @@
+MUTUAL-2  murphi-bfs-completement-verification  RunningTime: 0.1 (s) 
+MUTUAL-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+MUTUAL-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+MUTUAL-2  murphi-BDD-completement-verification  RunningTime: 1.2 (s)
+MUTUAL-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 1 (s)
+MUTUAL-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 0.1 (s)
+MUTUAL-16  murphi-bfs-completement-verification  RunningTime: 35 (s)
+MUTUAL-16  murphi-dfs-completement-verification  RunningTime: 34 (s)
+MUTUAL-16  murphi-scalarset-completement-verification  RunningTime: 1 (s)
+MUTUAL-16  murphi-BDD-completement-verification  RunningTime: 1.2 (s)
+MUTUAL-16  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 4 (s)
+MUTUAL-16  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 38.4 (s)
+GERMAN-1-2  murphi-bfs-completement-verification  RunningTime: 0.2 (s)
+GERMAN-1-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-1-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+GERMAN-1-2  murphi-BDD-completement-verification  RunningTime: 1 (s)
+GERMAN-1-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 3 (s)
+GERMAN-1-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 104 (s)
+GERMAN-1-4  murphi-bfs-completement-verification  RunningTime: 3630 (s)
+GERMAN-1-4  murphi-dfs-completement-verification  RunningTime: 2481 (s)
+GERMAN-1-4  murphi-scalarset-completement-verification  RunningTime: 2 (s)
+GERMAN-1-4  murphi-BDD-completement-verification  RunningTime: 235 (s)
+GERMAN-1-4  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 13 (s)
+GERMAN-1-4  murphi-AVR-SMT-PDR-completement-verification  RunningTime: -$ (s)
+GERMAN-2-2  murphi-bfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-2-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-2-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+GERMAN-2-2  murphi-BDD-completement-verification  RunningTime: 1 (s)
+GERMAN-2-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 3 (s)
+GERMAN-2-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 95 (s)
+GERMAN-2-4  murphi-bfs-completement-verification  RunningTime: 3079 (s)
+GERMAN-2-4  murphi-dfs-completement-verification  RunningTime: 2330 (s)
+GERMAN-2-4  murphi-scalarset-completement-verification  RunningTime: 1 (s)
+GERMAN-2-4  murphi-BDD-completement-verification  RunningTime: 232 (s)
+GERMAN-2-4  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 12 (s)
+GERMAN-2-4  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+GERMAN-3-2  murphi-bfs-completement-verification  RunningTime: 0.5 (s)
+GERMAN-3-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-3-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+GERMAN-3-2  murphi-BDD-completement-verification  RunningTime: 1 (s)
+GERMAN-3-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 4 (s)
+GERMAN-3-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 116 (s)
+GERMAN-3-4  murphi-bfs-completement-verification  RunningTime: 3688 (s)
+GERMAN-3-4  murphi-dfs-completement-verification  RunningTime: 1527 (s)
+GERMAN-3-4  murphi-scalarset-completement-verification  RunningTime: 2 (s)
+GERMAN-3-4  murphi-BDD-completement-verification  RunningTime: 237 (s)
+GERMAN-3-4  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 13 (s)
+GERMAN-3-4  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+GERMAN-4-2  murphi-bfs-completement-verification  RunningTime: 0.3 (s)
+GERMAN-4-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-4-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+GERMAN-4-2  murphi-BDD-completement-verification  RunningTime: 1 (s)
+GERMAN-4-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 3 (s)
+GERMAN-4-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 108 (s)
+GERMAN-4-4  murphi-bfs-completement-verification  RunningTime: 3489 (s)
+GERMAN-4-4  murphi-dfs-completement-verification  RunningTime: 2190 (s)
+GERMAN-4-4  murphi-scalarset-completement-verification  RunningTime: 1 (s)
+GERMAN-4-4  murphi-BDD-completement-verification  RunningTime: 229 (s)
+GERMAN-4-4  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 13 (s)
+GERMAN-4-4  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+GERMAN-5-2  murphi-bfs-completement-verification  RunningTime: 0.3 (s)
+GERMAN-5-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-5-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+GERMAN-5-2  murphi-BDD-completement-verification  RunningTime: 1 (s)
+GERMAN-5-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 3 (s)
+GERMAN-5-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 101 (s)
+GERMAN-5-4  murphi-bfs-completement-verification  RunningTime: 3367 (s)
+GERMAN-5-4  murphi-dfs-completement-verification  RunningTime: 2231 (s)
+GERMAN-5-4  murphi-scalarset-completement-verification  RunningTime: 1 (s)
+GERMAN-5-4  murphi-BDD-completement-verification  RunningTime: 221 (s)
+GERMAN-5-4  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 12 (s)
+GERMAN-5-4  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+GERMAN-6-2  murphi-bfs-completement-verification  RunningTime: 0.4 (s)
+GERMAN-6-2  murphi-dfs-completement-verification  RunningTime: 0.1 (s)
+GERMAN-6-2  murphi-scalarset-completement-verification  RunningTime: 0.1 (s)
+GERMAN-6-2  murphi-BDD-completement-verification  RunningTime: 1 (s)
+GERMAN-6-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 4 (s)
+GERMAN-6-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 99 (s)
+GERMAN-6-4  murphi-bfs-completement-verification  RunningTime: 3458 (s)
+GERMAN-6-4  murphi-dfs-completement-verification  RunningTime: 2292 (s)
+GERMAN-6-4  murphi-scalarset-completement-verification  RunningTime: 2 (s)
+GERMAN-6-4  murphi-BDD-completement-verification  RunningTime: 231 (s)
+GERMAN-6-4  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 13 (s)
+GERMAN-6-4  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+FLASH-1-2  murphi-bfs-completement-verification  RunningTime: 692 (s)
+FLASH-1-2  murphi-dfs-completement-verification  RunningTime: 682 (s)
+FLASH-1-2  murphi-scalarset-completement-verification  RunningTime: 7 (s)
+FLASH-1-2  murphi-BDD-completement-verification  RunningTime: 34766 (s)
+FLASH-1-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 25 (s)
+FLASH-1-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 57 (s)
+FLASH-1-3  murphi-bfs-completement-verification  RunningTime: mem_out
+FLASH-1-3  murphi-dfs-completement-verification  RunningTime: mem_out
+FLASH-1-3  murphi-scalarset-completement-verification  RunningTime: 432 (s)
+FLASH-1-3  murphi-BDD-completement-verification  RunningTime: mem_out
+FLASH-1-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 64 (s)
+FLASH-1-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 610 (s)
+FLASH-2-2  murphi-bfs-completement-verification  RunningTime: 714 (s)
+FLASH-2-2  murphi-dfs-completement-verification  RunningTime: 699 (s)
+FLASH-2-2  murphi-scalarset-completement-verification  RunningTime: 8 (s)
+FLASH-2-2  murphi-BDD-completement-verification  RunningTime: 35863 (s)
+FLASH-2-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 26 (s)
+FLASH-2-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 53 (s)
+FLASH-2-3  murphi-bfs-completement-verification  RunningTime: mem_out
+FLASH-2-3  murphi-dfs-completement-verification  RunningTime: mem_out
+FLASH-2-3  murphi-scalarset-completement-verification  RunningTime: 448 (s)
+FLASH-2-3  murphi-BDD-completement-verification  RunningTime: mem_out
+FLASH-2-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 58 (s)
+FLASH-2-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 588 (s)
+FLASH-3-2  murphi-bfs-completement-verification  RunningTime: 671 (s)
+FLASH-3-2  murphi-dfs-completement-verification  RunningTime: 605 (s)
+FLASH-3-2  murphi-scalarset-completement-verification  RunningTime: 7 (s)
+FLASH-3-2  murphi-BDD-completement-verification  RunningTime: 35746 (s)
+FLASH-3-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 26 (s)
+FLASH-3-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 51 (s)
+FLASH-3-3  murphi-bfs-completement-verification  RunningTime: mem_out
+FLASH-3-3  murphi-dfs-completement-verification  RunningTime: mem_out
+FLASH-3-3  murphi-scalarset-completement-verification  RunningTime: 441 (s)
+FLASH-3-3  murphi-BDD-completement-verification  RunningTime: mem_out
+FLASH-3-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 69 (s)
+FLASH-3-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 689 (s)
+FLASH-4-2  murphi-bfs-completement-verification  RunningTime: 725 (s)
+FLASH-4-2  murphi-dfs-completement-verification  RunningTime: 671 (s)
+FLASH-4-2  murphi-scalarset-completement-verification  RunningTime: 7 (s)
+FLASH-4-2  murphi-BDD-completement-verification  RunningTime: 35980 (s)
+FLASH-4-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 29 (s)
+FLASH-4-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 64 (s)
+FLASH-4-3  murphi-bfs-completement-verification  RunningTime: mem_out
+FLASH-4-3  murphi-dfs-completement-verification  RunningTime: mem_out
+FLASH-4-3  murphi-scalarset-completement-verification  RunningTime: 409 (s)
+FLASH-4-3  murphi-BDD-completement-verification  RunningTime: mem_out
+FLASH-4-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 82 (s)
+FLASH-4-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 724 (s)
+FLASH-5-2  murphi-bfs-completement-verification  RunningTime: 701 (s)
+FLASH-5-2  murphi-dfs-completement-verification  RunningTime: 641 (s)
+FLASH-5-2  murphi-scalarset-completement-verification  RunningTime: 7 (s)
+FLASH-5-2  murphi-BDD-completement-verification  RunningTime: 34122 (s)
+FLASH-5-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 23 (s)
+FLASH-5-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 49 (s)
+FLASH-5-3  murphi-bfs-completement-verification  RunningTime: mem_out
+FLASH-5-3  murphi-dfs-completement-verification  RunningTime: mem_out
+FLASH-5-3  murphi-scalarset-completement-verification  RunningTime: 397 (s)
+FLASH-5-3  murphi-BDD-completement-verification  RunningTime: mem_out
+FLASH-5-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 49 (s)
+FLASH-5-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 514 (s)
+FLASH-6-2  murphi-bfs-completement-verification  RunningTime: 712 (s)
+FLASH-6-2  murphi-dfs-completement-verification  RunningTime: 690 (s)
+FLASH-6-2  murphi-scalarset-completement-verification  RunningTime: 7 (s)
+FLASH-6-2  murphi-BDD-completement-verification  RunningTime: 35690 (s)
+FLASH-6-2  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 27 (s)
+FLASH-6-2  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 59 (s)
+FLASH-6-3  murphi-bfs-completement-verification  RunningTime: mem_out
+FLASH-6-3  murphi-dfs-completement-verification  RunningTime: mem_out
+FLASH-6-3  murphi-scalarset-completement-verification  RunningTime: 421 (s)
+FLASH-6-3  murphi-BDD-completement-verification  RunningTime: mem_out
+FLASH-6-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 73 (s)
+FLASH-6-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 698 (s)
+TL_In-1-3  murphi-bfs-completement-verification  RunningTime: 1 (s)
+TL_In-1-3  murphi-dfs-completement-verification  RunningTime: 1 (s)
+TL_In-1-3  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_In-1-3  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_In-1-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 23 (s)
+TL_In-1-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 86 (s)
+TL_In-1-7  murphi-bfs-completement-verification  RunningTime: 1910 (s)
+TL_In-1-7  murphi-dfs-completement-verification  RunningTime: 1811 (s)
+TL_In-1-7  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_In-1-7  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_In-1-7  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 138 (s)
+TL_In-1-7  murphi-AVR-SMT-PDR-completement-verification  RunningTime: 2299 (s)
+TL_In-2-3  murphi-bfs-completement-verification  RunningTime: 1 (s)
+TL_In-2-3  murphi-dfs-completement-verification  RunningTime: 1 (s)
+TL_In-2-3  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_In-2-3  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_In-2-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 24 (s)
+TL_In-2-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+TL_In-2-7  murphi-bfs-completement-verification  RunningTime: 1953 (s)
+TL_In-2-7  murphi-dfs-completement-verification  RunningTime: 1896 (s)
+TL_In-2-7  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_In-2-7  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_In-2-7  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 679 (s)
+TL_In-2-7  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+TL_NonIn-1-3  murphi-bfs-completement-verification  RunningTime: 1 (s)
+TL_NonIn-1-3  murphi-dfs-completement-verification  RunningTime: 1 (s)
+TL_NonIn-1-3  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_NonIn-1-3  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_NonIn-1-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 30 (s)
+TL_NonIn-1-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+TL_NonIn-1-7  murphi-bfs-completement-verification  RunningTime: 28754 (s)
+TL_NonIn-1-7  murphi-dfs-completement-verification  RunningTime: 27890 (s)
+TL_NonIn-1-7  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_NonIn-1-7  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_NonIn-1-7  murphi-ABC-SAT-PDR-completement-verification  RunningTime: mem_out
+TL_NonIn-1-7  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+TL_NonIn-2-3  murphi-bfs-completement-verification  RunningTime: 1 (s)
+TL_NonIn-2-3  murphi-dfs-completement-verification  RunningTime: 1 (s)
+TL_NonIn-2-3  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_NonIn-2-3  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_NonIn-2-3  murphi-ABC-SAT-PDR-completement-verification  RunningTime: 34 (s)
+TL_NonIn-2-3  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+TL_NonIn-2-7  murphi-bfs-completement-verification  RunningTime: 29166 (s) 
+TL_NonIn-2-7  murphi-dfs-completement-verification  RunningTime: 27765 (s)
+TL_NonIn-2-7  murphi-scalarset-completement-verification  RunningTime: structure not support for scalarset
+TL_NonIn-2-7  murphi-BDD-completement-verification  RunningTime: mem_out
+TL_NonIn-2-7  murphi-ABC-SAT-PDR-completement-verification  RunningTime: mem_out
+TL_NonIn-2-7  murphi-AVR-SMT-PDR-completement-verification  RunningTime: mem_out
+CACHE_ERROR-1  murphi-bfs-bug-detection  RunningTime: 29 (s)
+CACHE_ERROR-1  murphi-dfs-bug-detection  RunningTime: 1 (s)
+CACHE_ERROR-1  murphi-scalarset-bug-detection  RunningTime: 1 (s)
+CACHE_ERROR-1  murphi-BDD-bug-detection  RunningTime: 260 (s)
+CACHE_ERROR-1  murphi-SAT-BMC-bug-detection  RunningTime: 45 (s)
+CACHE_ERROR-1  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 39 (s)
+CACHE_ERROR-1  murphi-SMT-BMC-bug-detection  RunningTime: 81 (s)
+CACHE_ERROR-1  murphi-AVR-SMT-PDR-bug-detection  RunningTime: 351 (s)
+CACHE_ERROR-2  murphi-bfs-bug-detection  RunningTime: 95 (s)
+CACHE_ERROR-2  murphi-dfs-bug-detection  RunningTime: 1 (s)
+CACHE_ERROR-2  murphi-scalarset-bug-detection  RunningTime: 1 (s)
+CACHE_ERROR-2  murphi-BDD-bug-detection  RunningTime: 1703 (s)
+CACHE_ERROR-2  murphi-SAT-BMC-bug-detection  RunningTime: 64 (s)
+CACHE_ERROR-2  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 52 (s)
+CACHE_ERROR-2  murphi-SMT-BMC-bug-detection  RunningTime: 105 (s)
+CACHE_ERROR-2  murphi-AVR-SMT-PDR-bug-detection  RunningTime: 781 (s)
+GERMAN_ERROR-1  murphi-bfs-bug-detection  RunningTime: 120 (s)
+GERMAN_ERROR-1  murphi-dfs-bug-detection  RunningTime: 109 (s)
+GERMAN_ERROR-1  murphi-scalarset-bug-detection  RunningTime: 41 (s)
+GERMAN_ERROR-1  murphi-BDD-bug-detection  RunningTime: 290 (s)
+GERMAN_ERROR-1  murphi-SAT-BMC-bug-detection  RunningTime: 359 (s)
+GERMAN_ERROR-1  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 445 (s)
+GERMAN_ERROR-1  murphi-SMT-BMC-bug-detection  RunningTime: 1455 (s)
+GERMAN_ERROR-1  murphi-AVR-SMT-PDR-bug-detection  RunningTime: mem_out
+GERMAN_ERROR-2  murphi-bfs-bug-detection  RunningTime: 171 (s)
+GERMAN_ERROR-2  murphi-dfs-bug-detection  RunningTime: 124 (s)
+GERMAN_ERROR-2  murphi-scalarset-bug-detection  RunningTime: 45 (s)
+GERMAN_ERROR-2  murphi-BDD-bug-detection  RunningTime: 292 (s)
+GERMAN_ERROR-2  murphi-SAT-BMC-bug-detection  RunningTime: 418 (s)
+GERMAN_ERROR-2  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 461 (s)
+GERMAN_ERROR-2  murphi-SMT-BMC-bug-detection  RunningTime: 1781 (s)
+GERMAN_ERROR-2  murphi-AVR-SMT-PDR-bug-detection  RunningTime: mem_out
+FLASH_ERROR-1  murphi-bfs-bug-detection  RunningTime: 876 (s)
+FLASH_ERROR-1  murphi-dfs-bug-detection  RunningTime: 35 (s)
+FLASH_ERROR-1  murphi-scalarset-bug-detection  RunningTime: 31 (s)
+FLASH_ERROR-1  murphi-BDD-bug-detection  RunningTime: mem_out
+FLASH_ERROR-1  murphi-SAT-BMC-bug-detection  RunningTime: 5134 (s)
+FLASH_ERROR-1  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 6289 (s)
+FLASH_ERROR-1  murphi-SMT-BMC-bug-detection  RunningTime: 15377 (s)
+FLASH_ERROR-1  murphi-AVR-SMT-PDR-bug-detection  RunningTime: mem_out
+FLASH_ERROR-2  murphi-bfs-bug-detection  RunningTime: mem_out
+FLASH_ERROR-2  murphi-dfs-bug-detection  RunningTime: 42 (s)
+FLASH_ERROR-2  murphi-scalarset-bug-detection  RunningTime: 33 (s)
+FLASH_ERROR-2  murphi-BDD-bug-detection  RunningTime: mem_out
+FLASH_ERROR-2  murphi-SAT-BMC-bug-detection  RunningTime: mem_out
+FLASH_ERROR-2  murphi-ABC-SAT-PDR-bug-detection  RunningTime: mem_out
+FLASH_ERROR-2  murphi-SMT-BMC-bug-detection  RunningTime: mem_out
+FLASH_ERROR-2  murphi-AVR-SMT-PDR-bug-detection  RunningTime: mem_out
+TL_ERROR-1  murphi-bfs-bug-detection  RunningTime: mem_out
+TL_ERROR-1  murphi-dfs-bug-detection  RunningTime: 35 (s)
+TL_ERROR-1  murphi-scalarset-bug-detection  RunningTime: structure not support for scalarset
+TL_ERROR-1  murphi-BDD-bug-detection  RunningTime: mem_out
+TL_ERROR-1  murphi-SAT-BMC-bug-detection  RunningTime: mem_out
+TL_ERROR-1  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 26 (s)
+TL_ERROR-1  murphi-SMT-BMC-bug-detection  RunningTime: mem_out
+TL_ERROR-1  murphi-AVR-SMT-PDR-bug-detection  RunningTime: mem_out
+TL_ERROR-2  murphi-bfs-bug-detection  RunningTime: mem_out
+TL_ERROR-2  murphi-dfs-bug-detection  RunningTime: 31 (s)
+TL_ERROR-2  murphi-scalarset-bug-detection  RunningTime: structure not support for scalarset
+TL_ERROR-2  murphi-BDD-bug-detection  RunningTime: mem_out
+TL_ERROR-2  murphi-SAT-BMC-bug-detection  RunningTime: mem_out
+TL_ERROR-2  murphi-ABC-SAT-PDR-bug-detection  RunningTime: 24 (s)
+TL_ERROR-2  murphi-SMT-BMC-bug-detection  RunningTime: mem_out
+TL_ERROR-2  murphi-AVR-SMT-PDR-bug-detection  RunningTime: mem_out

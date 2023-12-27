@@ -1,0 +1,308 @@
+[
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.SystemVerilogEmitter"
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle_1.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle_1.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle_1.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle_1.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit_1.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit_1.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit_1.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit_1.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit_1.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit_1.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit_1.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit_1.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try_1.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try_1.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try_1.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try_1.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Idle.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Exit.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Crit.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try.io_n_in_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try.io_n_in_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.rule_Try.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.mutual.n_reg_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.mutual.n_reg_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumDefAnnotation",
+    "typeName":"state",
+    "definition":{
+      "e_I":0,
+      "e_T":1,
+      "e_C":2,
+      "e_E":3
+    }
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.mutual.io_n_out_0",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"chisel3.experimental.EnumAnnotations$EnumVecAnnotation",
+    "target":"mutual.mutual.io_n_out_1",
+    "typeName":"state",
+    "fields":[
+      
+    ]
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"mutual_build"
+  }
+]

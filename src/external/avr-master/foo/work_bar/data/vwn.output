@@ -1,0 +1,8 @@
+./protocol.btor2  ./
+Using Btor2Parser
+	(reading btor2 file foo/work_bar/bar.btor2)
+	(finished parsing btor2 file foo/work_bar/bar.btor2)
+	(starting interpreting btor2 model)
+	(finished interpreting btor2 model)
+	(parsed system with ? state variables)
+	(performing splitting nodes at extract points)
